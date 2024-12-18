@@ -10,7 +10,7 @@ Project-File-Based is a web application built with Next.js that allows users to 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/Project-file-based.git
+   git clone git@github.com:erbdev-1/File-based-routing.git
    ```
 2. **Navigate to the project directory:**
    ```bash
